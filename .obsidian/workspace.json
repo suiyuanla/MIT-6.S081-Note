@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f1748f960ef5c8d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一节.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第一节.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第一节.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,10 +159,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0743fbf0976f8e4c",
+  "active": "f1748f960ef5c8d8",
   "lastOpenFiles": [
-    "Lecture 1 OS overview.md",
     "第一节.md",
+    "README.md",
+    "未命名",
+    "Lecture 1 OS overview.md",
     "2023-07-11.md",
     "未命名 1.canvas",
     "未命名.canvas"
